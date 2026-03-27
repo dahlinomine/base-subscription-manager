@@ -1,0 +1,10 @@
+{
+  "name": "base-subscription-manager",
+  "version": "0.1.0",
+  "description": "On-chain recurring payment system for Farcaster channel access",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
